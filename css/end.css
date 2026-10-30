@@ -75,7 +75,7 @@ color: white;
 }
 
 #END .container .center ul a:hover {
-  color: rgb(255, 223, 32);
+  color: rgb(251, 146, 60);
 }
 #END .container .end{
   display: flex;
@@ -114,7 +114,7 @@ form input{
 
 }
 form input:focus {
-border-color: rgb(255, 223, 32);;
+border-color: rgb(251, 146, 60);;
 outline: none;
 }
 form input::placeholder{
@@ -124,7 +124,7 @@ form input::placeholder{
 form button{
   width: 100%;
   padding: 12px;
-  background-color: rgb(255, 223, 32);
+  background-color: rgb(251, 146, 60);
   border: 4px solid ;
   box-shadow: rgba(0, 0, 0, 0.2) -4px -4px 0px 0px inset;
   font-size: 13.5px;
@@ -135,7 +135,7 @@ form button{
 }
 form button:hover{
 transform: translate(4px,4px);
-  background-color: rgb(253, 199, 0);
+  background-color: rgb(249, 115, 22);
 
 }
 .copy-rights-container{
@@ -177,7 +177,7 @@ transform: translate(4px,4px);
 }
 
 .copy-rights ul a:hover {
-    color: rgb(255, 223, 32);
+    color: rgb(251, 146, 60);
 }
 
 @media (min-width: 480px){

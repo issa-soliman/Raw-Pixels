@@ -62,7 +62,7 @@ height: auto;
 line-height: 21px;
 
 }
-.bg-red    { background-color: rgb(251, 44, 54); }
+.bg-red    { background-color: rgb(249, 115, 22); }
 .bg-blue   { background-color: rgb(43, 127, 255); }
 .bg-purple { background-color: rgb(173, 70, 255); }
 .bg-green  { background-color: rgb(0, 202, 83); }
@@ -116,7 +116,7 @@ padding: 12px 18px;
 
 }
 #COMMUNITY .container .r-section .c-1{
-  background-color: rgb(254, 242, 242);
+  background-color: rgb(255, 247, 237);
 }
 #COMMUNITY .container .r-section .c-2{
 background-color: rgb(239, 246, 255);

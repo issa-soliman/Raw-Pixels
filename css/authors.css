@@ -1,7 +1,7 @@
 #AUTHORS{
           border: 2px solid black;
 padding: 60px 0;
-background-color: rgb(255, 210, 48);
+background-color: rgb(125, 211, 252);
 position: relative;
 }
 #AUTHORS .container{
@@ -23,7 +23,7 @@ rotate: calc(45deg);
     height:96px;
     bottom: 30px;
     left: 30px;
-background-color: rgba(251, 44, 54, 0.098);
+background-color: rgba(249, 115, 22, 0.098);
 rotate: calc(-12deg);
 }
 .top-text{
@@ -90,7 +90,7 @@ margin: 0 0 6px 0;
 
 }
 #AUTHORS .container .items .item:hover .h4-1{
-  color: rgb(231, 0, 11);
+  color: rgb(234, 88, 12);
 }
 #AUTHORS .container .items .item:hover .h4-2{
   color: rgb(43, 127, 255);

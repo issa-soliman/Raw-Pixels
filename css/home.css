@@ -12,7 +12,7 @@ html{
   scroll-behavior: smooth;
 }
 ::selection {
-  background-color: rgb(255, 209, 91); 
+  background-color: rgb(251, 146, 60); 
   color: black;
 }
 
@@ -22,7 +22,7 @@ html{
 }
 #home{
   position: relative;
-    background-color: rgb(254, 240, 138);
+    background-color: rgb(186, 230, 253);
 
   padding-top:108px ;
   padding-bottom: 48px;
@@ -43,7 +43,7 @@ z-index: -1;
     position: absolute;
   top: 120px;
   right: 60px;
-  background-color: rgba(251, 44, 54, 0.101);
+  background-color: rgba(249, 115, 22, 0.101);
 width: 72px;
 height: 72px;
 rotate: calc(-45deg);
@@ -101,7 +101,7 @@ line-height: 67.5px;
 }
 
 .c-red-b-shadow{
-  color: rgb(231, 0, 11);
+  color: rgb(234, 88, 12);
 
 }
 .c-blue-b-shadow{
@@ -192,7 +192,7 @@ box-shadow:rgb(0, 0, 0) 0px 0px 0px;
   padding: 7px 14px;
   border: 2px solid black;
     box-shadow:rgb(0, 0, 0) 3px 3px 0px;
-background-color: rgb(251, 44, 54);
+background-color: rgb(249, 115, 22);
 color: white;
   font-size: 14px;
   font-weight: 700;

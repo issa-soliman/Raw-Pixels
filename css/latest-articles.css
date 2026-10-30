@@ -41,7 +41,7 @@ transform: translate(0, 0);
 
 }
 #LATEST-ARTICLES .container .items .item:hover .h4-1{
-  color: rgb(231, 0, 11);
+  color: rgb(234, 88, 12);
 }
 #LATEST-ARTICLES .container .items .item:hover .h4-2{
   color: rgb(43, 127, 255);
@@ -75,7 +75,7 @@ line-height: 12px;
       border: 2px solid black;
 }
 .r-c{
-  background-color: rgb(251, 44, 54);
+  background-color: rgb(249, 115, 22);
 color: white;
 rotate: calc(12deg);
 
@@ -108,7 +108,7 @@ box-shadow:rgb(0, 0, 0) 3px 3px 0px;
 margin-bottom: 9px;
 }
 #LATEST-ARTICLES .container .items .item .card.bg-y{
-  background-color: rgb(255, 223, 32);
+  background-color: rgb(251, 146, 60);
 rotate: calc(-1deg);
 
 }
@@ -219,7 +219,7 @@ margin-bottom: 24px;}
 }
 
 #LATEST-ARTICLES .container .r-section .item-1 .num-red {
-  color: rgb(231, 0, 11);
+  color: rgb(234, 88, 12);
 }
 
 #LATEST-ARTICLES .container .r-section .item-1 .num-blue {
@@ -247,7 +247,7 @@ margin-bottom: 24px;}
 
 
 #LATEST-ARTICLES .container .r-section .item-1 .trending-item:hover .item-title.c-red {
-  color: rgb(231, 0, 11);
+  color: rgb(234, 88, 12);
 }
 #LATEST-ARTICLES .container .r-section .item-1 .trending-item:hover .item-title.c-blue {
   color: rgb(43, 128, 255);
@@ -299,7 +299,7 @@ margin-bottom: 24px;}
   transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.15s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.cat-yellow { background-color: rgb(254, 249, 194); } 
+.cat-yellow { background-color: rgb(255, 237, 213); } 
 .cat-green  { background-color: rgb(220, 252, 231); }
 .cat-pink   { background-color: rgb(252, 231, 243); }
 .cat-blue   { background-color: rgb(219, 234, 254); }
@@ -310,7 +310,7 @@ margin-bottom: 24px;}
   box-shadow: 4px 4px 0px #000000;
 }
 .categories-list .cat-btn.cat-yellow:hover {
-  background-color: rgb(255, 223, 32);
+  background-color: rgb(251, 146, 60);
 }
 .categories-list .cat-btn.cat-green:hover {
   background-color: rgb(123, 241, 168)
